@@ -20,7 +20,6 @@ from Bio.Seq import Seq
 from dateutil import parser
 import os
 import xlsxwriter
-import optparse
 
 # Some filename
 FILE_ALTERNATE_ID_TO_ID_MAPPING="data/alt_to_id.graph"
